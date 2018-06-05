@@ -1,2 +1,5 @@
 ﻿  已複製 0 個檔案
+  QuadControl.cpp
+c:\users\thhuang\desktop\fcnd-estimation-cpp-master\src\quadcontrol.cpp(213): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\thhuang\desktop\fcnd-estimation-cpp-master\src\quadcontrol.cpp(213): warning C4244: '正在初始化': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
   Simulator.vcxproj -> C:\Users\thhuang\Desktop\FCND-Estimation-CPP-master\project\x64\Debug\Simulator.exe
